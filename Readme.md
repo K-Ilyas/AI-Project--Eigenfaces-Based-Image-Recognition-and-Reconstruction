@@ -36,7 +36,7 @@ Before running the project, ensure that you have the following installed:
 To download the source code, run:
 
 ```bash
-git clone https://github.com/your-username/Eigenfaces-Recognition.git
+git clone https://github.com/K-Ilyas/AI-Project--Eigenfaces-Based-Image-Recognition-and-Reconstruction.git
 cd Eigenfaces-Recognition
 ```
 
@@ -143,9 +143,11 @@ def reconstruct_and_visualize(test_image, nearest_image_original, mask_zone):
 
 ### 🔹 Face Recognition and Reconstruction Example
 
+![Screenshot 2025-02-23 235045](https://github.com/user-attachments/assets/6662873d-2698-4d9d-b142-cb056b4f19ea)
 
 ### 🔹 Distance Distribution for Recognition
 
+![Screenshot 2025-02-23 235011](https://github.com/user-attachments/assets/62098dea-efe7-4550-b426-e7e5d7ffce0f)
 ---
 
 ## 📖 References
